@@ -42,6 +42,8 @@ footer{
     color:#ccff33;
     position:relative;
     bottom:0px;
+    font-weight:100;
+    font-size:15px;
 }
 img{
     margin-left: 20px;
@@ -71,5 +73,6 @@ ul{
     margin:6px;
 
 }
+
 
 
